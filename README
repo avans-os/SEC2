@@ -1,0 +1,11 @@
+# SEC2 Assignment
+
+A very simple crypto thingy for an university assignment. This is not meant for anything serious, just to show that I understand the basics of symmetric encryption.
+
+Requirements are in requirements.txt.
+
+Install using:
+  pip install -r requirements.txt
+
+Run using:
+  python3 .
